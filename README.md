@@ -1,6 +1,6 @@
 # MQR Tracker 
 
-Python implementation of a robust multy-object tracker based on optical flow and a model of color, the tracker was specifically taylored for vehicles. To test the tracker see import the library ```MQR.py``` and use the tracker as you would if it as an OpenCV-like tracker object https://docs.opencv.org/3.4/d2/d0a/tutorial_introduction_to_tracker.html
+Python implementation of a robust multy-object tracker based on optical flow and a model of color, the tracker was specifically tailored for vehicles. To test the tracker see import the library ```MQR.py``` and use the tracker as you would if it as an OpenCV-like tracker object https://docs.opencv.org/3.4/d2/d0a/tutorial_introduction_to_tracker.html
 
 ## Use in traffic Estimation. 
 
